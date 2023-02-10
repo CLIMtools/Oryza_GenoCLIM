@@ -1,4 +1,4 @@
-[<img align="left" width="150" height="150" src="https://github.com/CLIMtools/Oryza_GenoCLIM/blob/master/www/Oryza_GenoCLIM_logo.png">](https://rstudio.aws.science.psu.edu:3838/aaf11/GenoCLIM/ "GenoCLIM")
+[<img align="left" width="150" height="150" src="https://github.com/CLIMtools/Oryza_GenoCLIM/www/Oryza_GenoCLIM_logo.png">](https://rstudio.aws.science.psu.edu:3838/aaf11/GenoCLIM/ "GenoCLIM")
 
 # [Oryza GenoCLIM](https://gramene.org/CLIMtools/arabidopsis_v2.0/GenoCLIM-V2/ "GenoCLIM")
 [**Oryza GenoCLIM**](https://gramene.org/CLIMtools/arabidopsis_v2.0/GenoCLIM-V2/) (https://gramene.org/CLIMtools/arabidopsis_v2.0/GenoCLIM-V2/) is an SHINY(https://shiny.rstudio.com/) component of [**AOryza CLIMtools**](https://gramene.org/CLIMtools/arabidopsis_v2.0/) (https://gramene.org/CLIMtools/arabidopsis_v2.0/) that allows the user to explore the environmental variation associated to any gene or variant of interest in *Arabidopis thaliana*.
