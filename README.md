@@ -9,11 +9,6 @@ This tool provides information on the q-values for all associated variants for t
 
 In this version of GenoCLIM, we provide information on the predicted effect of SNPs on RNA structure. For this, we provide the SNPfold correlation coefficient. The SNPfold algorithm (Halvorsen et al., 2010) considers the ensemble of structures predicted by the RNA partition functions of RNAfold (Bindewald & Shapiro, 2006) for each reference and alternative sequence and quantifies structural differences between these ensembles by calculating a Pearson correlation coefficient on the base-pairing probabilities between the two sequences. The closer this correlation coefficient is to 1, the less likely it is that the RNA structure is changed by the SNP. The creators of SNPfold note (Corley et al., 2015) that for genome-wide prediction, the bottom 5% of the correlation coefficient values (corresponding in this CLIMtools dataset to a correlation coefficient of 0.445) are most likely to be riboSNitches and the top 5% of correlation coefficient values (corresponding in this CLIMtools dataset to a correlation coefficient of 0.99) are most likely to be non-riboSNitches.
 
--Halvorsen M, Martin JS, Broadaway S, Laederach A. Disease‐associated mutations that alter the RNA structural ensemble. PLoS Genet. 2010;6:e1001074.
-
--Bindewald, E, & Shapiro, BA. RNA secondary structure prediction from sequence alignments using a network of k-nearest neighbor classifiers. Rna. 2006;12:342-352.
-
-We recommend the user of GenoCLIM V.2.0 to become familiar with the limitations inherent to genome-wide association studies, for which a description is available in the left panel.
 
 ## [Data availability](https://datadryad.org/stash/dataset/doi:10.5061/dryad.mw6m905zj)
 Code and data for CLIMtools V2.0 have been uploaded to Dryad and Zenodo https://datadryad.org/stash/dataset/doi:10.5061/dryad.mw6m905zj 
