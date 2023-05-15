@@ -1,4 +1,4 @@
-[<img align="left" width="150" height="150" src="https://github.com/CLIMtools/GenoCLIM/blob/master/www/Oryza_GenoCLIM_logo.png">](https://gramene.org/CLIMtools/oryza_v1.0/Oryza_GenoCLIM/ "GenoCLIM")
+[<img align="left" width="150" height="150" src="https://github.com/CLIMtools/Oryza_GenoCLIM/blob/main/www/Oryza_GenoCLIM_logo.png">](https://gramene.org/CLIMtools/oryza_v1.0/Oryza_GenoCLIM/ "GenoCLIM")
 
 # [[Oryza GenoCLIM V.1.0](https://gramene.org/CLIMtools/oryza_v1.0/Oryza_GenoCLIM/ "Oryza GenoCLIM V.1.0")](https://gramene.org/CLIMtools/oryza_v1.0/Oryza_GenoCLIM/)
 [**[Oryza GenoCLIM V.1.0](https://gramene.org/CLIMtools/oryza_v1.0/Oryza_GenoCLIM/ "Oryza GenoCLIM V.1.0")**](https://gramene.org/CLIMtools/oryza_v1.0/Oryza_GenoCLIM/) is a component of [**Oryza CLIMtools**](https://gramene.org/CLIMtools/oryza_v1.0/ "**Oryza CLIMtools**") that allows the user to explore the environmental variation associated to any gene or variant of interest in rice landraces
