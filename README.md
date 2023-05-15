@@ -11,11 +11,11 @@ We provide information on the predicted effect of SNPs on RNA structure. For thi
 -Halvorsen M, Martin JS, Broadaway S, Laederach A. Disease‐associated mutations that alter the RNA structural ensemble. PLoS Genet. 2010;6:e1001074.
 
 
-## [<span style="color:blue">Data availability</span>](https://github.com/CLIMtools/OryzaCLIM/tree/main/data)
+## [<span style="color:blue">Data availability</span>](https://github.com/CLIMtools/Oryza_GenoCLIM/tree/main/data)
 Code and data for Oryza GenoCLIM 1.0 will be uploaded to Dryad and Zenodo upon publication. In the meantime, data is available in data folder of this GitHub repository. Please contact us (aaf11@psu.edu) with any questions/requests.
 
 
-## [<span style="color:blue">Citation</span>]([https://github.com/CLIMtools/OryzaCLIM/tree/main/data](https://www.biorxiv.org/content/10.1101/2023.05.10.540241v1))
+## [<span style="color:blue">Citation</span>](https://www.biorxiv.org/content/10.1101/2023.05.10.540241v1)
 
 -Ángel Ferrero-Serrano, David Chakravorty, Kobie J Kirven & Sarah M Assmann (2022). Oryza CLIMtools: An Online Portal for Investigating Genome-Environment Associations in Rice. bioRxiv 2023.05.10.540241; doi: https://doi.org/10.1101/2023.05.10.540241
 
