@@ -1,6 +1,6 @@
 [<img align="left" width="200" height="150" src="https://github.com/CLIMtools/Oryza_GenoCLIM/blob/main/www/Oryza_GenoCLIM_logo.png">](https://gramene.org/CLIMtools/oryza_v1.0/Oryza_GenoCLIM/ "GenoCLIM")
 
-# [[Oryza GenoCLIM V.1.0](https://gramene.org/CLIMtools/oryza_v1.0/Oryza_GenoCLIM/ "Oryza GenoCLIM V.1.0")]
+# [Oryza GenoCLIM V.1.0](https://gramene.org/CLIMtools/oryza_v1.0/Oryza_GenoCLIM/ "Oryza GenoCLIM V.1.0")
 [**[Oryza GenoCLIM V.1.0](https://gramene.org/CLIMtools/oryza_v1.0/Oryza_GenoCLIM/ "Oryza GenoCLIM V.1.0")**] is a component of [**Oryza CLIMtools**](https://gramene.org/CLIMtools/oryza_v1.0/ "**Oryza CLIMtools**") that allows the user to explore the environmental variation associated to any gene or variant of interest in rice landraces
 
 Enter any **[RAP gene ID](https://rapdb.dna.affrc.go.jp/index.html "RAP gene ID")** on the search box and retrieve any significant association with any of the more that 400 environmental parameters that we provide in our database. The user may use their desired significance threshold when considering any of these association.
