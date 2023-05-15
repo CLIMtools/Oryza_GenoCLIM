@@ -18,4 +18,4 @@ Code and data for Oryza GenoCLIM 1.0 will be uploaded to Dryad and Zenodo upon p
 ## Citation
 
 
-[<img src="https://github.com/CLIMtools/GenoCLIM-V2/blob/main/screenshot1.png">](https://gramene.org/CLIMtools/arabidopsis_v2.0 "GenoCLIM")
+[<img src="[https://github.com/CLIMtools/GenoCLIM-V2/blob/main/screenshot1.png](https://github.com/CLIMtools/Oryza_GenoCLIM/blob/main/www/screenshot1.png)">]([https://gramene.org/CLIMtools/arabidopsis_v2.0](https://gramene.org/CLIMtools/oryza_v1.0/Oryza_GenoCLIM/ "Oryza GenoCLIM V.1.0) "Oryza GenoCLIM V.1.0")
