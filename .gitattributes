@@ -5,3 +5,4 @@ data/Indica_GEA.feather filter=lfs diff=lfs merge=lfs -text
 data/Japonica_GEA_Final.csv.zip filter=lfs diff=lfs merge=lfs -text
 data/Japonica_GEA.feather.zip filter=lfs diff=lfs merge=lfs -text
 data/Indica_GEA_Final.csv.zip filter=lfs diff=lfs merge=lfs -text
+data/Indica_GEA.feather.zip filter=lfs diff=lfs merge=lfs -text
