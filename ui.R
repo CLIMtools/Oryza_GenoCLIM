@@ -16,15 +16,11 @@ library(shinydashboard)
 library(RSQLite)
 library(sqldf)
 library(feather)
-library(googleAnalyticsR)
 library(shinyWidgets)
-ga_tracking_id <- "G-SN1JH51P58"
 
 shinyUI(fluidPage(
-  
-  tags$head(
+    tags$head(includeHTML("google-analytics.html"),
     tags$link(rel="stylesheet", type="text/css",href="style.css"),
-    tags$script(HTML(paste0("ga('create', '", ga_tracking_id, "', 'auto');"))),
     tags$script('!function(d,s,id){var js,fjs=d.getElementsByTagName(s)    [0],p=/^http:/.test(d.location)?\'http\':\'https\';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");')
     
   ),
