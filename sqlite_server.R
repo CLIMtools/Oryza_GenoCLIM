@@ -1,4 +1,22 @@
-shinyServer(function(input, output) {
+shinyServer(function(input, output, session) {
+    
+    input_params <- reactive({
+        params <- parseQueryString(session$clientData$url_search)
+        list(
+            genome = params$genome,
+            locus = params$locus
+        )
+    })
+    observe({
+        input_values <- input_params()
+
+        if (!is.null(input_values$genome)) {
+            updateRadioButtons(session, "dataset", selected = input_values$genome)
+        }
+        if (!is.null(input_values$locus)) {
+            updateTextInput(session, "locus_id", value = input_values$locus)
+        }
+    })
   descriptiondataset <-read_csv("data/datadescription.csv")
   
   
